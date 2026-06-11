@@ -8,9 +8,11 @@ __pycache__/
 .venv/
 venv/
 
-# Outputs
-outputs/
-checkpoints/
+# Outputs (keep test_scatter.png)
+outputs/*
+!outputs/test_scatter.png
+checkpoints/*
+!checkpoints/best_model.pt
 
 # IDE
 .idea/
