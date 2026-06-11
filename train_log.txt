@@ -1,0 +1,10 @@
+[1/100] Train Loss: 32.7932, Valid Loss: 34.8707, Valid PCC: -0.3323
+[2/100] Train Loss: 23.2393, Valid Loss: 43.8521, Valid PCC: -0.3437
+[3/100] Train Loss: 15.8951, Valid Loss: 79.5038, Valid PCC: -0.2451
+[4/100] Train Loss: 12.6786, Valid Loss: 88.6012, Valid PCC: -0.0513
+[5/100] Train Loss: 11.0497, Valid Loss: 49.4595, Valid PCC: 0.0447
+[6/100] Train Loss: 9.8037, Valid Loss: 22.5052, Valid PCC: 0.1041
+[7/100] Train Loss: 8.6782, Valid Loss: 16.2846, Valid PCC: 0.1854
+[8/100] Train Loss: 7.7705, Valid Loss: 9.1695, Valid PCC: 0.2966
+[9/100] Train Loss: 7.1755, Valid Loss: 6.9652, Valid PCC: 0.3648
+[10/100] Train Loss: 6.8294, Valid Loss: 6.9667, Valid PCC: 0.3920
